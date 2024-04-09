@@ -1,0 +1,30 @@
+html {
+	font-family: Radio Grotesk; 19px
+}
+body {
+	margin: 0;
+}
+header {
+	background: #edece8;
+	height: 100px;
+}
+h1 {
+	text-align: center;
+	color: black;
+	line-height: 100px;
+	margin: 0;
+}
+h2 {
+	text-align: center;
+	color: black;
+	line-height: 100px;
+	margin: 0;
+}
+h2 {
+        background:#edece8;
+        height: 100px;
+      }
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
